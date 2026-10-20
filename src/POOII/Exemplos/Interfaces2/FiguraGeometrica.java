@@ -1,4 +1,4 @@
-package Exemplos.Interfaces2;
+package POOII.Exemplos.Interfaces2;
 
 public interface FiguraGeometrica {
     public double calcularArea();

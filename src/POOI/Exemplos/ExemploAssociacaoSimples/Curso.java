@@ -1,4 +1,4 @@
-package Exemplos.ExemploAssociacaoSimples;
+package POOI.Exemplos.ExemploAssociacaoSimples;
 
 public class Curso {
     private String nome;

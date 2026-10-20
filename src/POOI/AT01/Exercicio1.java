@@ -1,4 +1,4 @@
-package AtividadesMarcelo.AT01;
+package POOI.AT01;
 public class Exercicio1 {
     public static void main(String []args) {
         mostrarProduto("cereal",10.99,10);

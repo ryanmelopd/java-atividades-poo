@@ -1,4 +1,4 @@
-package Exemplos.Matriz4x4;
+package POOI.Exemplos.Matriz4x4;
 
 import java.util.Scanner;
 

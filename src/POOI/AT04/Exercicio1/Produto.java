@@ -1,4 +1,4 @@
-package AT04.Exercicio1;
+package POOI.AT04.Exercicio1;
 
 // Exercício 1
 public class Produto {

@@ -1,4 +1,4 @@
-package AT08;
+package POOI.AT08;
 
 public class Main {
     public static void main(String[] args) {

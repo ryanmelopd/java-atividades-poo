@@ -1,4 +1,4 @@
-package Exemplos.Interfaces1;
+package POOII.Exemplos.Interfaces1;
 
 public interface SerVivo {
     public void comer(int massa);

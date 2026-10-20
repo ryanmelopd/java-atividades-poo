@@ -1,4 +1,4 @@
-package AT12;
+package POOI.AT12;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package AT13.Exercicio1;
+package POOI.AT13.Exercicio1;
 
 public class Cachorro extends Animal {
 

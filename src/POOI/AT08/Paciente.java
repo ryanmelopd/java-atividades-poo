@@ -1,4 +1,4 @@
-package AT08;
+package POOI.AT08;
 
 public class Paciente {
     private String nome;

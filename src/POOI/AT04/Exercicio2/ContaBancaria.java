@@ -1,4 +1,4 @@
-package AT04.Exercicio2;
+package POOI.AT04.Exercicio2;
 
 public class ContaBancaria {
     String titular;

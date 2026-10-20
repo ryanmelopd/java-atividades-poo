@@ -1,4 +1,4 @@
-package AT06;
+package POOII.AT06;
 
 public interface Conectavel {
     void conectar();

@@ -1,4 +1,4 @@
-package AT06;
+package POOII.AT06;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Exemplos.Interfaces1;
+package POOII.Exemplos.Interfaces1;
 
 public class Animal implements SerVivo {
     private boolean vivo = true;

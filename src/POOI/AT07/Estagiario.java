@@ -1,4 +1,4 @@
-package AT07;
+package POOI.AT07;
 
 public class Estagiario extends Funcionario {
     private String instituicaoEnsino;

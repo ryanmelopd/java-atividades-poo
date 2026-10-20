@@ -1,4 +1,4 @@
-package AT05.Exercicio5;
+package POOI.AT05.Exercicio5;
 
 public class ItemEstoque {
     String nome;

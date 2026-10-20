@@ -1,4 +1,4 @@
-package AT14;
+package POOI.AT14;
 
 import java.util.Scanner;
 public class AnaliseDeNotas {

@@ -1,4 +1,4 @@
-package AT04.Exercicio3;
+package POOI.AT04.Exercicio3;
 
 public class Veiculo {
     String modelo;

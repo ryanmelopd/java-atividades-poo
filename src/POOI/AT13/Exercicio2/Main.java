@@ -1,4 +1,4 @@
-package AT13.Exercicio2;
+package POOI.AT13.Exercicio2;
 
 public class Main {
     public static void main(String[] args) {

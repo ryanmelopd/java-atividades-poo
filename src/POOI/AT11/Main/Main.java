@@ -1,7 +1,7 @@
-package AT11.Main;
+package POOI.AT11.Main;
 
-import AT11.Banco.ContaBancaria;
-import AT11.TipoDeConta.ContaPoupanca;
+import POOI.AT11.Banco.ContaBancaria;
+import POOI.AT11.TipoDeConta.ContaPoupanca;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Exemplos.ExemploPOO;
+package POOI.Exemplos.ExemploPOO;
 
 public abstract class Funcionario implements Trabalhador {
     private String nome;

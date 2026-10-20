@@ -1,4 +1,4 @@
-package Exemplos.Polimorfismo;
+package POOI.Exemplos.Polimorfismo;
 
 public class Funcionario {
     private String nome;

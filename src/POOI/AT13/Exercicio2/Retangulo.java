@@ -1,4 +1,4 @@
-package AT13.Exercicio2;
+package POOI.AT13.Exercicio2;
 
 public class Retangulo extends Forma {
     private double base;

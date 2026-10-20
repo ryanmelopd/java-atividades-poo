@@ -1,4 +1,4 @@
-package AT07;
+package POOII.AT07;
 
 public abstract class Funcionario implements Registravel {
     private String nome;

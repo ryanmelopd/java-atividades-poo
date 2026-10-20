@@ -1,4 +1,4 @@
-package AT07;
+package POOII.AT07;
 
 public class Professor extends Funcionario {
     private int quantidadeHoras;

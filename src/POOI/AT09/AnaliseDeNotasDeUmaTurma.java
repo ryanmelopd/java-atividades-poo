@@ -1,4 +1,4 @@
-package AT09;
+package POOI.AT09;
 
 import java.util.Scanner;
 

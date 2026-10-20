@@ -1,4 +1,4 @@
-package AT11.Banco;
+package POOI.AT11.Banco;
 
 public class ContaBancaria {
     private String titular;

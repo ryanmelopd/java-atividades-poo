@@ -1,4 +1,4 @@
-package Exemplos.ExemploPOO;
+package POOI.Exemplos.ExemploPOO;
 
 public class Desenvolvedor extends Funcionario {
 

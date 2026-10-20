@@ -1,4 +1,4 @@
-package AT02;
+package POOII.AT02;
 
 public abstract class Entrega {
     protected String codigoPedido;

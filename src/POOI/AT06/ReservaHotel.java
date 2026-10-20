@@ -1,4 +1,4 @@
-package AT06;
+package POOI.AT06;
 
 public class ReservaHotel {
     private String nome;

@@ -1,4 +1,4 @@
-package AtividadesMarcelo.AT02;
+package POOI.AT02;
 
 public class Exercicio6 {
     public static void main(String[] args) {

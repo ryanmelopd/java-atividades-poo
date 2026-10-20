@@ -1,4 +1,4 @@
-package AT10.Agregacao;
+package POOI.AT10.Agregacao;
 
 public class Main {
     public static void main(String[] args) {

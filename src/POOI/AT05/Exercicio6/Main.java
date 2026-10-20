@@ -1,4 +1,4 @@
-package AT05.Exercicio6;
+package POOI.AT05.Exercicio6;
 
 public class Main {
     public static void main(String[] args) {

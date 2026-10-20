@@ -1,4 +1,4 @@
-package AtividadesMarcelo.AT03;
+package POOI.AT03;
 import java.util.Scanner;
 
 public class Exercicio2 {

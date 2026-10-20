@@ -1,6 +1,6 @@
-package AT11.TipoDeConta;
+package POOI.AT11.TipoDeConta;
 
-import AT11.Banco.ContaBancaria;
+import POOI.AT11.Banco.ContaBancaria;
 
 public class ContaPoupanca extends ContaBancaria {
     private double taxaRendimento;

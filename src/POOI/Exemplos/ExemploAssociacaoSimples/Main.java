@@ -1,4 +1,4 @@
-package Exemplos.ExemploAssociacaoSimples;
+package POOI.Exemplos.ExemploAssociacaoSimples;
 
 public class Main {
     public static void main(String[] args) {

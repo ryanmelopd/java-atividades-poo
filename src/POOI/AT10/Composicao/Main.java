@@ -1,4 +1,4 @@
-package AT10.Composicao;
+package POOI.AT10.Composicao;
 
 public class Main {
     public static void main(String[] args) {

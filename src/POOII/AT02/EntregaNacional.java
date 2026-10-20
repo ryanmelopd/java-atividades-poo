@@ -1,4 +1,4 @@
-package AT02;
+package POOII.AT02;
 
 public class EntregaNacional extends Entrega {
     private double distancia;

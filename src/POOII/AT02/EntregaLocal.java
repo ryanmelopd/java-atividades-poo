@@ -1,4 +1,4 @@
-package AT02;
+package POOII.AT02;
 
 public class EntregaLocal extends Entrega {
     private final double freteFixo = 10;

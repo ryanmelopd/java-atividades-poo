@@ -1,4 +1,4 @@
-package AT03;
+package POOII.AT03;
 
 public class Mago extends Personagem {
     private double ataqueMagico;

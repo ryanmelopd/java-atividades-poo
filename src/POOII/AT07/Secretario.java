@@ -1,4 +1,4 @@
-package AT07;
+package POOII.AT07;
 
 public class Secretario extends Funcionario {
     private double salarioMensal;
