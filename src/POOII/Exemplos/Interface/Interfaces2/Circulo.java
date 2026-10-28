@@ -1,4 +1,4 @@
-package POOII.Exemplos.Interfaces2;
+package POOII.Exemplos.Interface.Interfaces2;
 
 public class Circulo implements FiguraGeometrica {
     private double raio;

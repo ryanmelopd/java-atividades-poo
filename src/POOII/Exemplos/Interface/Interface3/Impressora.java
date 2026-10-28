@@ -1,4 +1,4 @@
-package POOII.Exemplos.Interface3;
+package POOII.Exemplos.Interface.Interface3;
 
 public class Impressora implements Conectavel, Imprimivel {
     private String modelo;

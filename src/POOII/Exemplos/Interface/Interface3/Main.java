@@ -1,4 +1,4 @@
-package POOII.Exemplos.Interface3;
+package POOII.Exemplos.Interface.Interface3;
 
 public class Main {
     public static void main(String[] args) {

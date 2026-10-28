@@ -1,4 +1,4 @@
-package POOII.Exemplos.TratamentoDeExcecoes1;
+package POOII.Exemplos.TratamentoDeExcecoes.TratamentoDeExcecoes1;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
@@ -8,6 +8,7 @@ public class Main {
         Scanner input = new Scanner(System.in);
 
         try {
+            System.out.println("=== DIVISÃO ===");
             System.out.print("Informe o numerador da divisão: ");
             int a = input.nextInt();
             System.out.print("Informe o denominador da divisão: ");
