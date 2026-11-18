@@ -1,7 +1,5 @@
 package POOII.Exemplos.Lambda;
 
-import org.w3c.dom.ls.LSOutput;
-
 public class Main {
     public static void main(String[] args) {
            OperacaoMatematica somar = new OperacaoMatematica() {
